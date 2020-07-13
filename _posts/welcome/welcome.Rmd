@@ -1,0 +1,39 @@
+---
+title: "Bienvenidos al Catálogo de ejemplos de IA"
+description: Primer post de nuestro catalogo de ejemplos de IA
+#draft: true
+author:
+  - name: José R. Sosa 
+    url: https://example.com/iacatalog
+    affiliation: Everis Perú, an NTT Data company
+    affiliation_url: https://everis.c
+date: 07-08-2020
+output:
+  distill::distill_article:
+    self_contained: false
+preview: ../../images/clasificador03.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/Wv2kKPMNR3A?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Bienvenidos a nuestro Catálogo de demostración de IA del Digital Lab de everis Perú. Aquí exponemos un conjunto de POCs, demos y prototipos de casos de uso de la Inteligencia Artificial y el Advanced Analytics.
+
+![](../../images/clasificador03.png)
+
+
+
+Ecuacioines matemáticas escritas en latex:
+				
+$$
+\displaystyle\int_{0}^{1}\frac{x\;dx}{x^2+1}=\left.\frac{1}{2}\ln(x^2+1)\right|_0^1=\frac12\ln2
+$$
+
+

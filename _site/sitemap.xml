@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://example.com/iacatalog/about.html</loc>
+    <lastmod>2020-07-08T19:44:41+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/iacatalog/contributors.html</loc>
+    <lastmod>2020-07-09T21:49:11+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/iacatalog/</loc>
+    <lastmod>2020-07-09T21:26:59+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/iacatalog/posts/2020-07-08-searchengine/</loc>
+    <lastmod>2020-07-13T14:30:22+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/iacatalog/posts/welcome/</loc>
+    <lastmod>2020-07-13T14:23:42+00:00</lastmod>
+  </url>
+</urlset>

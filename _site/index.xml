@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Catálogo de ejemplos de Inteligencia Artificial</title>
+    <link>https://example.com/iacatalog/</link>
+    <atom:link href="https://example.com/iacatalog/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Catálogo de ejemplos, POCs y protoripos de Inteligencia Artificial que son parte de nuestro Showroom en el Digital Lab 
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Motor de Búsqueda</title>
+      <dc:creator>José R Sosa</dc:creator>
+      <link>https://example.com/iacatalog/posts/2020-07-08-searchengine</link>
+      <description>Prueba de concepto de un motor de búsqueda con procesamiento de lenguaje natural (NLP).</description>
+      <category>NLP</category>
+      <category>Search engine</category>
+      <guid>https://example.com/iacatalog/posts/2020-07-08-searchengine</guid>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://example.com/iacatalog/posts/2020-07-08-searchengine/../../images/buscador01.png" medium="image" type="image/png" width="910" height="750"/>
+    </item>
+    <item>
+      <title>Bienvenidos al Catálogo de ejemplos de IA</title>
+      <dc:creator>José R. Sosa</dc:creator>
+      <link>https://example.com/iacatalog/posts/welcome</link>
+      <description>Primer post de nuestro catalogo de ejemplos de IA</description>
+      <guid>https://example.com/iacatalog/posts/welcome</guid>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://example.com/iacatalog/posts/welcome/../../images/clasificador03.png" medium="image" type="image/png" width="912" height="681"/>
+    </item>
+  </channel>
+</rss>

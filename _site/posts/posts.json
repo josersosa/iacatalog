@@ -1,0 +1,41 @@
+[
+  {
+    "path": "posts/2020-07-08-searchengine/",
+    "title": "Motor de Búsqueda",
+    "description": "Prueba de concepto de un motor de búsqueda con procesamiento de lenguaje natural (NLP).",
+    "author": [
+      {
+        "name": "José R Sosa",
+        "url": "https://example.com/iacatalog"
+      }
+    ],
+    "date": "2020-07-08",
+    "categories": [
+      "NLP",
+      "Search engine"
+    ],
+    "preview": "posts/2020-07-08-searchengine/../../images/buscador01.png",
+    "last_modified": "2020-07-13T14:30:22+00:00",
+    "input_file": {},
+    "preview_width": 910,
+    "preview_height": 750
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Bienvenidos al Catálogo de ejemplos de IA",
+    "description": "Primer post de nuestro catalogo de ejemplos de IA",
+    "author": [
+      {
+        "name": "José R. Sosa",
+        "url": "https://example.com/iacatalog"
+      }
+    ],
+    "date": "2020-07-08",
+    "categories": [],
+    "preview": "posts/welcome/../../images/clasificador03.png",
+    "last_modified": "2020-07-13T14:23:42+00:00",
+    "input_file": {},
+    "preview_width": 912,
+    "preview_height": 681
+  }
+]

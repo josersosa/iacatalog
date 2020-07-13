@@ -1,0 +1,18 @@
+---
+title: "Sobre este catálogo"
+description: |
+  Que hacemos y en que áreas estamos trabajando
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Everis a conformado un equipo de cientificos de datos dentro de su área de Data & Analytics para soportar los proyectos que requieren de procesos o modelos de Analítica Avanzada e Inteligencia Artificial. En este espacio virtual vamos a presentar un conjunto de prototipos, pruebas de concepto o proyectos internos que demuentran nuestras capcidades en la aplicación de las nuevas tecnologías en el campo de Machine Learning para la resolución de problemas con potencial de aportar valor a las empresas.
+
+En este sentido, estamos enfocados principalmente en cuatro grandes áreas dentro de mundo del Advance Analytics:
+
+- Computer Vision
+- Natural Language Processing (NLP)
+- Speech Analytics
+- DataOps (model deployments in production)

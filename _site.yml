@@ -1,0 +1,26 @@
+name: "distill_blog"
+title: "Catálogo de ejemplos de Inteligencia Artificial"
+description: |
+  Catálogo de ejemplos, POCs y protoripos de Inteligencia Artificial que son parte de nuestro Showroom en el Digital Lab 
+base_url: https://example.com/iacatalog/
+collections:
+  posts:
+    disqus: distill_blog
+    hidden: false
+    share: [twitter, linkedin, facebook]  
+output_dir: "_site"
+navbar:
+  logo: images/everis_NTT_Data2.png
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Contributors"
+      href: contributors.html
+    - icon: fa fa-twitter
+      href: https://twitter.com/everis
+    - icon: fa fa-rss
+      href: index.xml
+output: distill::distill_article
+

@@ -1,0 +1,16 @@
+---
+title: "Contributors"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+La siguiente, es un lista de las personas que contribuyen con el catálogo de demostraciones de IA:
+
+Name | Bio
+----------------------|-------------------------------------------------
+**José Rafael Sosa** | Líder del equipo de data scientist de Everis Perú. 
+**José Hugo Jaita** | Data scientist de everis Perú, Ingeniero en mecatronica con maestría en Computer Science y especialista en Deep Learning.
+**Walter Pinedo** | Data scientist de everis Perú, Ingeniero en Informatica cursante de una Maestría en Ciencia de Datos.
+**José David López** | Data scientist, Ingeniero en Sistemas con experiencia en Inteligencia Artificial, computación en la Nube y Computer Visión.
+**Anthony Juares** | Ingeniero de Software, especialista en la integración de modelos de machine en aplicaciones moviles.
