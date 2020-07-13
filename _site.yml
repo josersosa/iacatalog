@@ -8,7 +8,7 @@ collections:
     disqus: distill_blog
     hidden: false
     share: [twitter, linkedin, facebook]  
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   logo: images/everis_NTT_Data2.png
   right:
